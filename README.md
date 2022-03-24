@@ -1,2 +1,2 @@
-# Tian2022_Proc B script
-# Currently, our paper was submitted to Proc B.
+# Tian2022_microbiome script
+# Currently, our paper was under review.
